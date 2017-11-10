@@ -1,0 +1,88 @@
+
+
+
+html { 
+  background: url("../images/backgroundpic.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+
+	background-color: red;
+	font-size: 30px;
+	float: left;
+	position:absolute;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 100px;
+}
+
+.paragraph {
+
+	margin-left: 50px;
+}
+
+#rubygem {
+
+	height:225px;
+	width: 225px;
+
+}
+
+
+
+.crystals {
+
+	margin-top: 100px;
+    /*border: 10px solid #ccc;*/
+    /*float: right;*/
+    width: 700px;
+    margin-left: 50px;
+
+
+}
+
+.result {
+
+	margin-left: 50px;
+}
+
+.total {
+
+	margin-left: 50px;
+}
+
+.score {
+
+	margin-left: 50px;
+	margin-top: 20px;
+}
+
+.addition {
+
+	margin-left: 150px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
